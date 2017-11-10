@@ -1,5 +1,4 @@
 # TechSummit 2017 Japan : Hands on Learning
-- 
 ## HOL002 & HOL006 - IoT × Bot の可能性：会議室空き確認 Bot 開発
 
 Web カメラから撮影した画像から会議室の空きや店舗の混雑状況を判定、自動応答 Chat でその状況を確認 ～ そんなソリューションを
