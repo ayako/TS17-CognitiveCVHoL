@@ -7,7 +7,7 @@ Microsoft Cognitive Services の Custom Vision Service を利用した画像分�
 自動応答 Chatbot の開発を体験できるハンズオン トレーニングです。
 
 ## 内容
-**Microsoft Cognitive Services を活用した 顔分析アプリ(Xamarin / UWP)の構築**
+**Microsoft Cognitive Services を活用した 会議室空き確認 Bot 開発**
 
 このハンズオンでは、まず Custom Vision Service を利用して、画像から会議室の空き状況を判 別するカスタム画像分析モデルを作成します。
 次に、Web を経由して定期的に取得される 画像が Azure Blob ストレージに送られるという状況を踏まえ、画像がアップロードされるたびに 
